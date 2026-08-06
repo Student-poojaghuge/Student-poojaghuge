@@ -1,87 +1,117 @@
-# Hi 👋, I'm Pooja Ghuge
+<h1 align="center">Hi 👋, I'm Pooja Ghuge</h1>
+<h3 align="center">Aspiring AI/ML Engineer | Data Scientist | Data Analyst</h3>
 
-🎓 Final Year Electronics & Telecommunication Engineering Student
-
-💡 Aspiring AI/ML Engineer | Data Scientist | Data Analyst
-
-📍 Nashik, Maharashtra, India
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Scientist;Data+Analyst;Python+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a final-year engineering student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Data Analytics. I enjoy building real-world AI applications and continuously improving my problem-solving and programming skills.
-
+- 🎓 Final Year Electronics & Telecommunication Engineering Student
 - 🌱 Currently learning AI, Machine Learning, Data Science & Data Analytics
-- 💻 Building end-to-end AI and Data Science projects using Python
-- 📊 Passionate about transforming data into meaningful insights
-- 🚀 Exploring Generative AI, NLP, and Computer Vision
-- 🎯 Seeking internship and full-time opportunities in AI/ML and Data Analytics
+- 💻 Passionate about Python, SQL, Machine Learning and Generative AI
+- 🚀 Building real-world AI and Data Science projects
+- 🎯 Looking for Internship and Full-Time opportunities in AI/ML, Data Science & Data Analytics
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
-- Python
-- SQL
+### Programming Languages
 
-**Data Analytics**
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine Learning**
-- Scikit-learn
-- Machine Learning Algorithms
-- Data Preprocessing
-- Model Evaluation
+### Data Analytics
 
-**Web Development**
-- Streamlit
-- Flask
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Database**
-- SQLite
-- MySQL
+### Machine Learning
 
-**Tools & Technologies**
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### Database
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
 ## 🚀 Featured Projects
 
 🤖 **AI Campus Assistant**
-- AI-powered academic assistant for students using Streamlit and AI.
 
 💳 **Credit Card Fraud Detection**
-- Machine Learning model to detect fraudulent credit card transactions.
 
 👨‍💼 **HR Employee Attrition Prediction**
-- Predicting employee attrition using classification algorithms.
 
 📊 **Customer Churn Prediction**
-- ML model to identify customers likely to leave a business.
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub Statistics
 
-To build innovative AI and Data Science solutions that solve real-world problems while continuously learning and contributing to impactful projects.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Student-poojaghuge&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-poojaghuge&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Student-poojaghuge&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-- 💼 LinkedIn:www.linkedin.com/in/pooja-ghuge-57bb9a308
-- 📧 Email: poojaghuge0510@gmail.com
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Student-poojaghuge&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.*
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-poojaghuge&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pooja-ghuge-57bb9a308" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:poojaghuge0510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Student-poojaghuge&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
