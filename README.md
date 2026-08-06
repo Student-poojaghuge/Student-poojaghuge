@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+
 <h1 align="center">Hi 👋, I'm Pooja Ghuge</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Data Scientist | Data Analyst</h3>
 
@@ -21,7 +22,9 @@
 - 🎯 Looking for Internship and Full-Time opportunities in AI/ML, Data Science & Data Analytics
 
 ---
+
 ## 💼 Domains ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge) ![Data Science](https://img.shields.io/badge/Data%20Science-green?style=for-the-badge) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge)
+
 
 ## 🛠️ Tech Stack
 
@@ -136,10 +139,10 @@
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
 ## 💭 Quote
 
-> "Learning never exhausts the mind. Every project is a step toward becoming a better engineer."
-
+> "Passionate about building AI-powered solutions that solve real-world problems."
 ## 📫 Connect with Me
 
 <p align="left">
