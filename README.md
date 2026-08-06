@@ -1,3 +1,8 @@
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
 <h1 align="center">Hi 👋, I'm Pooja Ghuge</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Data Scientist | Data Analyst</h3>
 
@@ -16,6 +21,7 @@
 - 🎯 Looking for Internship and Full-Time opportunities in AI/ML, Data Science & Data Analytics
 
 ---
+## 💼 Domains ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge) ![Data Science](https://img.shields.io/badge/Data%20Science-green?style=for-the-badge) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-purple?style=for-the-badge)
 
 ## 🛠️ Tech Stack
 
@@ -93,6 +99,46 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Student-poojaghuge&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-poojaghuge&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pooja-ghuge-57bb9a308">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:poojaghuge0510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Student-poojaghuge&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+## 💭 Quote
+
+> "Learning never exhausts the mind. Every project is a step toward becoming a better engineer."
 
 ## 📫 Connect with Me
 
